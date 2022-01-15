@@ -1,0 +1,15 @@
+:root {
+  --uim-color:#35A6FF;
+}
+
+.text-uim { color: var(--uim-color); }
+.bg-uim { background-color: var(--uim-color); }
+.border-uim { border-color: var(--uim-color); }
+
+#entityForm { 
+}
+
+#entityFormHeader { 
+}
+#entityFormHeader:hover { 
+}
